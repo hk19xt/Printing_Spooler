@@ -1,5 +1,5 @@
 # Printing_Spooler
-This program is running a printing spooler accepting a lot of users who would like to print jobs.
+This program is running a printing spooler accepting a lot of users based on their priorities.
 This program has a goal to learn a dynamically sized structure in order to accept, hold, and release printing jobs. This program is focusing the concept of nodes.
 
 How to run this program:

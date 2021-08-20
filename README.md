@@ -1,6 +1,6 @@
 # Printing_Spooler
 This program is running a printing spooler accepting a lot of users based on their priorities.
-This program has a goal to learn a dynamically sized structure in order to accept, hold, and release printing jobs. This program is focusing the concept of nodes.
+This program has a goal to learn a dynamically sized structure in order to accept, hold, and release printing jobs. This program is focusing on the concept of nodes.
 
 How to run this program:
 1) There are three classes in this file: Node.class, Print.class, PrintSpooler.class.
@@ -12,7 +12,7 @@ How to run this program:
 7) When you click the 'Quit' button, it will exit the program.
 
 Finally, this program has a priority.
-1) Stusents have first priority, so their printing jobs are prioritized over any staff and faculty jobs.
+1) Students have first priority, so their printing jobs are prioritized over any staff and faculty jobs.
 2) Staff has second priority, so their printing jobs are prioritized over faculty jobs.
 3) Faculty has the longest waiting lists because they have flexible due dates.
 4) However, if they have the same category in students, staff or faculty, then first-come and first-serve will be applied.
